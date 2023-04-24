@@ -25,7 +25,7 @@ const Navbar = () => {
           alignItems: "center",
           justifyContent: "center",
           display: "flex",
-          position: "fixed !important",
+          position: "sticky",
           top: "0",
           left:"0",
           zIndex:"1000",
